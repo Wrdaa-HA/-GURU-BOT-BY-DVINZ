@@ -12,7 +12,7 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "6285939391878" //put your bot number here
+global.pairingNumber = "6285939391878" //put your bot number here
 
 global.mods = ['6285939391978','6285939391978'] 
 global.prems = ['6285939391978', '6285939391978', '6285939391978']
@@ -51,8 +51,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'Wardaa -MD'
-global.premium = 'true'
-global.packname = 'Queen's Wardaa' 
+global.premium = 'false'
+global.packname = 'Queens Wardaa' 
 global.author = '@R.DVinz' 
 global.menuvid = 'https://i.imgur.com/ZMObyuq.png'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/rull_dvinzi\n' 
